@@ -160,7 +160,7 @@ export default function App() {
 
       {/* ── FOOTER ── */}
       <footer className="flex flex-col md:flex-row items-center justify-between px-8 py-6 gap-4">
-        <p className="text-xs text-zinc-600">© 2024 Jenkins Project · Apache License 2.0</p>
+        <p className="text-xs text-zinc-600">© 2026 Jenkins Project · Apache License 2.0</p>
         <div className="flex gap-6">
           {["GitHub","Security","Changelog","Governance"].map(l => (
             <a key={l} href="#" className="text-xs text-zinc-600 hover:text-zinc-300 transition-colors">{l}</a>
